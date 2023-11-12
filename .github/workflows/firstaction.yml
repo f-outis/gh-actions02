@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      name: donald
+      name: Donald Trumpet
     steps:
       - name: Run a one-line script
         run: |
